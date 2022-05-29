@@ -10,7 +10,7 @@ const reverseString = function(str) {
 
     /*
         Solution with built-in array function:
-        return char.reversed().join("");
+        return char.reverse().join("");
     */
 };
 
